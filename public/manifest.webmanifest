@@ -1,0 +1,13 @@
+{
+  "name": "Droga Vida Popular",
+  "short_name": "Droga Vida",
+  "description": "Ofertas, produtos e atendimento da Droga Vida Popular.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffcf6",
+  "theme_color": "#e31b23",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
